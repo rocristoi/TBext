@@ -26,5 +26,5 @@ TBext is a scriptable widget that displays live transport data from Bucharest's 
 
 ## Notes
 - This is still a development version.
-- The responsiveness of the site is lacking, and the page is currently optimized for desktop view only.
+- The responsiveness of the site is lacking, and the page is currently optimized for desktop & mobile view only. (Not for devices using a screen width of aprox 800 to 1500px)
 - Further improvements and features are planned.
